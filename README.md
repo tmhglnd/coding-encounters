@@ -1,7 +1,5 @@
 # Coding Encounters
 
-A collective effort to map out creative coding events, meetups, workshops, exhibitions, venues, residencies, etc.
-
 A collective effort that maps out creative coding encounters in the real world. Submit your marker for a location where you encountered a cool event, venue, workshop, meetup or anything else related to live coding.
 
 Add tags to categorize the various markers.
